@@ -14,6 +14,7 @@
 		BD6E73A9288084E8001D5189 /* segue.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD6E73A7288084E8001D5189 /* segue.xcdatamodeld */; };
 		BD6E73AB288084E9001D5189 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD6E73AA288084E9001D5189 /* Assets.xcassets */; };
 		BD6E73AE288084E9001D5189 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD6E73AC288084E9001D5189 /* LaunchScreen.storyboard */; };
+		BD6E73B6288085EA001D5189 /* secondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6E73B5288085EA001D5189 /* secondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD6E73AA288084E9001D5189 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD6E73AD288084E9001D5189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD6E73AF288084E9001D5189 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD6E73B5288085EA001D5189 /* secondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BD6E739E288084E8001D5189 /* AppDelegate.swift */,
 				BD6E73A0288084E8001D5189 /* SceneDelegate.swift */,
 				BD6E73A2288084E8001D5189 /* ViewController.swift */,
+				BD6E73B5288085EA001D5189 /* secondScreen.swift */,
 				BD6E73A4288084E8001D5189 /* Main.storyboard */,
 				BD6E73AA288084E9001D5189 /* Assets.xcassets */,
 				BD6E73AC288084E9001D5189 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				BD6E739F288084E8001D5189 /* AppDelegate.swift in Sources */,
 				BD6E73A1288084E8001D5189 /* SceneDelegate.swift in Sources */,
 				BD6E73A9288084E8001D5189 /* segue.xcdatamodeld in Sources */,
+				BD6E73B6288085EA001D5189 /* secondScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
